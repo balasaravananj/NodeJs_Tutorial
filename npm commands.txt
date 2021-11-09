@@ -1,0 +1,5 @@
+npm init // to create properties.json
+npm init -y // Same like above
+npm install <PackageName> //local dependancy
+npm i <packagename> //same like above
+npm install -g <Packagename> //global dependancy
